@@ -77,14 +77,14 @@ const MobileNavbar = () => {
                             }
                             )
                         }
-                        <Link href='/login'>
+                        <Link href='/'>
                             <li className='px-7 cursor-pointer py-3 border-transparent transition-all border-2 font-medium text-primary bg-transparent capitalize
                             hover:text-primary hover:font-semibold active:bg-transparent focus:border-primary focus:bg-transparent'
                             >
                                 log in
                             </li>
                         </Link>
-                        <Link href='/signup'>
+                        <Link href='/'>
                             <li className='cursor-pointer text-center border-2 border-primary py-1.5 px-5  bg-white text-sm transition-all  font-semibold text-primary capitalize rounded-[6px] '
                             >
                                 Get Ad Space
