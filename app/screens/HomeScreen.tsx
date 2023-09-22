@@ -80,7 +80,6 @@ const HomeScreen = () => {
                 </h2>
                 <p className="lg:max-w-[260px] mt-[10px]"> {list.content}</p>
               </div>
-              uyi
               <div className="  flex flex-col h-auto overflow-hidden   rounded-[20px] animate-fade-lefts  items-end">
                 <Image
                   src={list.img}
