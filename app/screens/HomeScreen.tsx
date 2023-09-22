@@ -59,7 +59,7 @@ const HomeScreen = () => {
               success often hinges on having the right tools at your disposal.
             </p>
             <Button buttonClass=" font-medium w-[180px] !bg-[#F8F9FA] text-black h-[58px] mt-[30px] lg:mt-[48px]">
-              About Muxt Ads
+              About Muxt Ads ryry
             </Button>
           </div>
           <div className=" lg:absolute lg:right-[-] xl:right-[-450px] top-[90px] bottom-0 flex flex-col  overflow-hidden rounded-tl-[16px] animate-fade-left">
