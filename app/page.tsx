@@ -1,10 +1,10 @@
-import Image from 'next/image'
-import Landing from './screens/Landing'
+import Image from "next/image";
+import HomeScreen from "./screens/HomeScreen";
 
 export default function Home() {
   return (
     <main className="min-h-screen">
-      <Landing/>
+      <HomeScreen />
     </main>
-  )
+  );
 }

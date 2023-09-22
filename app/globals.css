@@ -17,3 +17,9 @@ body {
   color-scheme: light;
   font-family: "Rubik", sans-serif;
 }
+
+/* Hero BG  */
+
+.hero-bg {
+  background: linear-gradient(180deg, #682169 0%, #280828df 100%);
+}
