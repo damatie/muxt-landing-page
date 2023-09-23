@@ -86,7 +86,6 @@ const HomeScreen = () => {
                   className={`${list?.imgSize}`}
                 />
               </div>
-              sample
             </ContentCard>
           ))}
         </div>
