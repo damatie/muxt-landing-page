@@ -33,7 +33,6 @@ const Landing = () => {
           <MuxtGo />
         </div>
         <div className=" w-full bg-primary mt-28">
-          sample
           <Footer />
         </div>
       </div>
