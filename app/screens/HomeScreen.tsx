@@ -4,7 +4,6 @@ import AppLayout from "../components/shared/AppLayout";
 import HeroBanner from "../components/home/HeroBanner";
 import { muxtAdsPointers, muxtPointers } from "../utils/exportData";
 import Image from "next/image";
-import Photo from "../../public/assets/img/mobile-2.png";
 import Dashboard from "../../public/assets/img/bg-main.png";
 import ContentCard from "../components/shared/ContentCard";
 import Button from "../components/shared/Button";

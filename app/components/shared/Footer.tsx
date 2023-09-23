@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import { BeakerIcon } from "@heroicons/react/24/solid";
 import Logo from "../../../public/assets/img/logo-main.svg";
 import {
   FaSquareXTwitter,
